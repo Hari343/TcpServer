@@ -3,7 +3,7 @@
 A robust C# implementation of a TCP/IP client-server communication system that enables real-time status monitoring and
 message exchange between multiple clients and a centralized server. This is the server component of the project.
 
-For UI client implementation, see 
+For UI client implementation, see https://github.com/Hari343/tcp-client
 
 ## 🚀 Features
 
